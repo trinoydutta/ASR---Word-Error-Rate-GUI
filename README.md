@@ -7,3 +7,5 @@ I = number of insertions
 D = number of deletions
 
 A lower WER means a better performing system
+
+This module uses zszyellow's WER-in-Python to calculate WER.
